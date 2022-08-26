@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCh/3fnQcmeKpzMkb4tTqrtfVGn0CRIOVReKlNWY+LaJ6shSSxHH3RjewwxebtduCSG+ty374e+htRyDB8G0Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\VoltriumMod\\VoltriumMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

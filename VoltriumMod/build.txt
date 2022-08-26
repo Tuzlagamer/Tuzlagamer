@@ -1,0 +1,3 @@
+displayName = Voltrium Mod
+author = Tuzla gamer
+version = 0.8
